@@ -1,0 +1,22 @@
+﻿  [Atividade obrigatória] Envio do seu repositório.
+
+  O Git é um sistema de controle de versões distribuído, usado principalmente no desenvolvimento de software, mas que pode ser usado para registrar o histórico de edições de qualquer tipo de arquivo. As principais funções dessa ferramenta são:
+
+  *Permite que os desenvolvedores trabalhem simultaneamente.
+  *Não permite substituir as alterações um do outro.
+  *Mantém um histórico de todas as versões.
+  *É um sistema de controle de versão descentralizado.
+
+  Alguns comandos:
+
+
+ git clone url
+ cd /seu/diretorio/que/deseja/criargit init
+ git add .
+ git commit -m “mensagem commit inicial”
+ git status
+ git diff
+ git log
+ git tag -a v1.0
+ git push origin branch
+ git push origin master
